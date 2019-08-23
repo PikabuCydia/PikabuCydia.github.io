@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
-			<maxiOS>12.1.2</maxiOS>
+			<maxiOS>12.4</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This will be up until Jeffrey puts it into another repo and he has not tweeted and his website has been down since April so that is probably never. Options can be configured in settings.</description>
+		<description>This will be up until Jeffrey puts it into another repo, and seeing as he has not tweeted and his website has been down since April 2018, so that is probably never. Options can be configured in settings. Currently, on iOS 12, if you try to move your homscreen icons, it will freeze your device. Disable the tweak before moving your icon placement.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
